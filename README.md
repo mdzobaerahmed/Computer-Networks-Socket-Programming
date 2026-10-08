@@ -19,3 +19,14 @@ This project establishes a local network chat server where multiple clients can 
 ├── client.py        # Client socket connection and thread listener
 ├── server.py        # Central socket server managing client connections
 └── README.md        # Documentation and running guide
+
+## 🚀 Start the Server
+
+```bash
+python server.py
+
+
+## 💻 Start the Client
+
+```bash
+python client.py
